@@ -1,4 +1,10 @@
 
+/*
+ * mine.c
+ *
+ * Generates and dumps a minesweeper field to stdout, complete with number markers.
+ */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
